@@ -1,0 +1,23 @@
+version: '3.8'
+
+services:
+  server:
+    build: .
+    container_name: server
+    env_file:
+      - .env
+    restart: always
+    networks:
+      - nft-api-network
+    ports:
+      - "3000:3000"
+    volumes:
+      - server-data:/app/logs
+
+networks:
+  nft-api-network:
+    driver: bridge
+
+volumes:
+  server-data:
+    driver: local
