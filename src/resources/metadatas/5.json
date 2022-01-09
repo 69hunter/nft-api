@@ -1,0 +1,32 @@
+{
+  "name": "Peacock #5",
+  "description": "10,000 of the cutest and coolest peacocks in the metaverse.",
+  "image": "<ipfsBaseURI>/5.png",
+  "edition": 5,
+  "attributes": [
+    {
+      "trait_type": "Feather",
+      "value": "Violet"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sailor"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Brown bird"
+    },
+    {
+      "trait_type": "Eye",
+      "value": "Blush eyes"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rose"
+    }
+  ]
+}

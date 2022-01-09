@@ -1,0 +1,32 @@
+{
+  "name": "Peacock #8",
+  "description": "10,000 of the cutest and coolest peacocks in the metaverse.",
+  "image": "<ipfsBaseURI>/8.png",
+  "edition": 8,
+  "attributes": [
+    {
+      "trait_type": "Feather",
+      "value": "Violet"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Grey"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Mermaid"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sailor hat"
+    },
+    {
+      "trait_type": "Eye",
+      "value": "Smart glasses"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pink bubble gum"
+    }
+  ]
+}

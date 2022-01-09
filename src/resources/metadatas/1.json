@@ -1,0 +1,32 @@
+{
+  "name": "Peacock #1",
+  "description": "10,000 of the cutest and coolest peacocks in the metaverse.",
+  "image": "<ipfsBaseURI>/1.png",
+  "edition": 1,
+  "attributes": [
+    {
+      "trait_type": "Feather",
+      "value": "Bitcoin"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Suit"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Magician Hat"
+    },
+    {
+      "trait_type": "Eye",
+      "value": "Angry Eyes"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "No Traits"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "name": "Peacock #3",
+  "description": "10,000 of the cutest and coolest peacocks in the metaverse.",
+  "image": "<ipfsBaseURI>/3.png",
+  "edition": 3,
+  "attributes": [
+    {
+      "trait_type": "Feather",
+      "value": "Vibrant Green"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Turquoise"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Winter Scarf"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Brown bird"
+    },
+    {
+      "trait_type": "Eye",
+      "value": "Eye bandage"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pink bubble gum"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "name": "Peacock #7",
+  "description": "10,000 of the cutest and coolest peacocks in the metaverse.",
+  "image": "<ipfsBaseURI>/7.png",
+  "edition": 7,
+  "attributes": [
+    {
+      "trait_type": "Feather",
+      "value": "Violet"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Garland"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Fishing hat"
+    },
+    {
+      "trait_type": "Eye",
+      "value": "Angry eyes"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigarette"
+    }
+  ]
+}
